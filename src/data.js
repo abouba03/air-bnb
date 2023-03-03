@@ -8,7 +8,7 @@ export default [
         coverImg: "katie-zaferes.png",
         stats: {
             rating: 5.0,
-            reviewCount: 6
+            reviewCount: 06
         },
         location: "Online",
         openSpots: 0,
